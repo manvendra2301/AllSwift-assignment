@@ -1,0 +1,49 @@
+.header{
+  display: flex;
+  background-color: rgb(247, 242, 242);
+  align-items: center;
+  justify-content: space-between;
+  
+}
+.navbar-toggler{
+  width: 50px;
+  height: 50px;
+  margin-left: 50px;
+}
+
+.navbar-toggler-icon img{
+  width: 50px;
+  height: 50px;
+}
+
+.navbar-toggler{
+  width: 100px;
+}
+.Navbaricon{
+  margin-right: 50px;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.navbar-menu{
+  margin-top: 200px;
+  margin-left: 600px;
+  text-decoration: none;
+  
+}
+
+a{
+ text-decoration: none;
+  
+}
+
+ul{
+  list-style: none;
+}
+li{
+  font-size: 18px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
